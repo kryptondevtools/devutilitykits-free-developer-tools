@@ -50,7 +50,7 @@ Depending on the tool, processing can happen directly in the browser. Check the 
 - Data Size Calculator
 - Age Calculator
 
-Explore all tools at **https://devutilitykits.com/tools**
+Explore all tools at **https://devutilitykits.com/#categories**
 
 ## Contributing
 
