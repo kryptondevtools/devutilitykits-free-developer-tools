@@ -1,41 +1,65 @@
-# devutilitykits-free-developer-tools
+# DevUtilityKits
 
-DevUtilityKits — Free Developer Tools
+Free, fast, browser-based developer tools for everyday web development, debugging, data conversion, text processing, and calculations.
 
-A collection of free, fast, and easy-to-use online developer tools for programmers, web developers, system administrators, and digital creators.
+**Website:** https://devutilitykits.com
 
-🌐 Website: https://devutilitykits.com
+## Tool collections
 
-🛠️ Available Tools
+| Collection | Description |
+|---|---|
+| [JSON Formatter](./json-formatter/README.md) | Format, beautify, and validate JSON |
+| [Base64 Tools](./base64-tools/README.md) | Encode and decode Base64 data |
+| [URL Encoder](./url-encoder/README.md) | Encode and decode URL components |
+| [Regex Tools](./regex-tools/README.md) | Test and debug regular expressions |
+| [Timestamp Converter](./timestamp-converter/README.md) | Convert Unix timestamps and dates |
+| [Calculators](./calculators/README.md) | Developer, percentage, unit, data, and date calculations |
 
-DevUtilityKits provides practical browser-based utilities for everyday development and web tasks, including:
+## Why DevUtilityKits?
 
-🔍 DNS Tools — DNS Lookup, MX Lookup, SPF, DKIM, DMARC, and domain utilities
-🖼️ Image Tools — Image Converter, Compressor, Resizer, and image utilities
-🧩 JSON Tools — JSON Formatter, Validator, Minifier, and related utilities
-🔐 Encoding Tools — Base64, URL Encoding, HTML Entities, Hex, Binary, and more
-💻 Developer Tools — Code formatting, text utilities, and development helpers
-🌐 Web Tools — HTTP, SSL, headers, domain, and other web utilities
-🔒 Security Tools — Practical security and identity-related utilities
-🔢 Converters — Number bases, text formats, and other conversion tools
-✨ Why DevUtilityKits?
-Free to use
-No software installation required
-Fast browser-based tools
-Simple and responsive interface
-Useful for developers and webmasters
-Privacy-conscious approach
-Continuously expanding collection of tools
-🎯 Project Goal
+DevUtilityKits brings frequently used developer utilities into one simple toolbox. The goal is to make small development tasks faster without requiring unnecessary accounts, installations, or complex workflows.
 
-The goal of DevUtilityKits is to provide a convenient collection of free online utilities that help developers and web professionals complete common technical tasks quickly and easily.
+Depending on the tool, processing can happen directly in the browser. Check the individual tool documentation for details.
 
-🌐 Explore DevUtilityKits
+## Main categories
 
-Visit https://devutilitykits.com to explore the complete collection of free developer and web tools.
+- JSON & Data
+- Encoding & Conversion
+- Code & Formatting
+- Developer Utilities
+- DNS & Web
+- Security & Identity
+- Image Tools
+- Text Tools
+- SEO Tools
+- Marketing Tools
+- Web Generators
+- Cloud & DevOps
+- Time
+- Calculators
 
-🤝 Contributing
+## Featured tools
 
-Suggestions, bug reports, and contributions are welcome. If you have an idea for a useful developer utility, feel free to open an issue or submit a pull request.
+- JSON Formatter
+- Base64 Encoder & Decoder
+- URL Encoder & Decoder
+- Regex Tester
+- Timestamp Converter
+- Percentage Calculator
+- Unit Converter
+- Data Size Calculator
+- Age Calculator
 
-DevUtilityKits — Free online tools for developers, webmasters, and digital creators.
+Explore all tools at **https://devutilitykits.com/tools**
+
+## Contributing
+
+Issues, documentation improvements, examples, and useful feature suggestions are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## Security
+
+For security-related reports, see [SECURITY.md](./SECURITY.md).
+
+## License
+
+Unless otherwise stated in a subdirectory, the documentation and examples in this repository are provided under the MIT License. See [LICENSE](./LICENSE).
