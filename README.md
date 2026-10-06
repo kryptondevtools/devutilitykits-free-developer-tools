@@ -1,4 +1,4 @@
-# DevUtilityKits
+# DevUtilityKits - Free online web development and developer tools
 
 Free, fast, browser-based developer tools for everyday web development, debugging, data conversion, text processing, and calculations.
 
